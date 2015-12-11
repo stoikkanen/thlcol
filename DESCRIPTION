@@ -8,3 +8,4 @@ Maintainer: Mikko Virtanen <mvii@thl.fi>
 Description: See https://yhteistyotilat.fi/wiki08/x/DgBJAQ for details
 License: GPL 3.0
 RoxygenNote: 5.0.0
+Suggests: testthat

@@ -1,7 +1,7 @@
 #' Create THL colorpalette
 #'
 #' Create a color palette using the rules in https://yhteistyotilat.fi/wiki08/x/DgBJAQ
-#'
+#' 
 #' @param palette type of the palette
 #' @param shadegroup base shade group, from "A" to "I"
 #' @param altshadegroup base shade group, from "A" to "I" (used by palette "grey2")
