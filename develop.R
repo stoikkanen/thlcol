@@ -10,3 +10,4 @@ use_testthat() # run only once
 
 test()
 check()
+build()

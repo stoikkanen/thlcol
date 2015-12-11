@@ -5,7 +5,7 @@ Version: 0.1
 Date: 2015-12-11
 Author: Mikko J Virtanen
 Maintainer: Mikko Virtanen <mvii@thl.fi>
-Description: See https://yhteistyotilat.fi/wiki08/x/DgBJAQ for details
-License: GPL 3.0
+Description: THL Color chemes defined at https://yhteistyotilat.fi/wiki08/x/DgBJAQ usable in any R graphics.
+License: GPL-3
 RoxygenNote: 5.0.0
 Suggests: testthat
