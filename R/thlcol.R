@@ -31,8 +31,8 @@ thlpal<-function(palette=c("grey1","grey2","shadegroup","large"),shadegroup="A",
   }
   if(palette=="shadegroup") {
     if(is.null(n)) n<-5
-    alpha<-rep(alpha,length=n)
-    res<-c(thlcol(shadegroup=shadegroup,darkness=c("V","K","T","L"),alpha=alpha[1:4]),thlgrey(2,alpha=alpha[5]))
+    alpha<-rep(alpha,length=5)
+    res<-c(thlcol(shadegroup=shadegroup,darkness=c("V","K","T","L"),alpha=alpha[1:4]),thlgrey(2,alpha=alpha[5]))[1:n]
   }
   if(palette=="large") {
     if(is.null(n)) {
